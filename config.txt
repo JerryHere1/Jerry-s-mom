@@ -1,0 +1,6 @@
+owner=350692486613565441
+prefix=$
+game=kanbghi wldi
+stayinchannel=true
+songinstatus=false
+token=NTk4ODQzMTYxNzM3MTY2ODY5.XScjJQ.Y-j0Bjx3Mfj5s9cbVvldHcugmH0
